@@ -2,7 +2,7 @@
   "name": "yimi_xiaochengxu",
   "version": "1.0.1",
   "description": "A test project",
-  "author": "Dfuums",
+  "author": "0xsherer222",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -11,7 +11,7 @@
   "main": "index.js",
   "dependencies": {
     "lodash": "^4.17.21",
-    "ttictactoe111": "1.0.0"
-
+    "ttictactoe111": "1.0.0",
+    "yimi_imtables": "^1.0.0"
   }
 }
